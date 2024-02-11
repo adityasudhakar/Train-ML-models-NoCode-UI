@@ -2,6 +2,9 @@
 # Train-ML-models-NoCode-UI
 
 
+https://github.com/Ahmadshahzad2/Train-ML-models-NoCode-UI/assets/107186280/06f114ff-eb91-419e-972e-fcec6623be90
+
+
 ## Introduction
 Welcome ! This Streamlit-based interface allows users to train, fine-tune, and predict machine learning models without writing any code. It's designed to be intuitive and user-friendly, making machine learning more accessible to everyone.
 
@@ -43,3 +46,6 @@ Intuitive Streamlit UI for easy interaction
 Support for training, fine-tuning, and predictions
 Multiple model support with the ability to compare results
 Preprocessing options including handling null values and data slicing
+
+
+
