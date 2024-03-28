@@ -53,7 +53,7 @@ def main():
     """
     The main function that initializes the Streamlit UI components and handles navigation.
     """
-    st.sidebar.title("Projects")
+    st.sidebar.title("Projects_Adi")
 
     if 'current_project' not in st.session_state:
         st.session_state['current_project'] = None
